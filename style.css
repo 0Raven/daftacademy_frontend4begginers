@@ -1,0 +1,125 @@
+body{
+background: black;
+color: white;
+width: 90vw;
+}
+
+#navigation-menu{
+position: fixed;
+top: 0;
+}
+
+#navigation-social{
+overflow: hidden;
+position: fixed;
+bottom: 0;
+}
+
+#members{
+height: 100vh;
+width: 90vw;
+}
+
+#members-photo{
+float: right;
+display: inline-block;
+margin-top:20vh;
+width:60vw;
+}
+
+#members-photo img {
+width: 20%;
+}
+
+#about{
+height:100vh;	
+width: 90vw;
+}
+
+#about img {
+width: 40%;
+}
+
+#about-content{
+float: right;
+display: inline-block;
+margin-top:20vh;
+width:60vw;
+}
+
+#concerts{
+height:200vh;
+width: 90vw;
+}
+
+#concerts-content{
+float: right;
+margin-top:20vh;
+width:80vw;
+}
+
+#concerts-content img{
+float: right;
+}
+
+#concerts-content span{
+float:right;
+display: inline-block;
+}
+
+.right-float{
+float: right;
+padding: 10px;
+}
+
+.right-float-head{
+float: right;
+width: 50vw;
+}
+
+#concerts img {
+width: 25vw;
+}
+
+#video{
+height:100vh;
+width: 90vw;
+}
+
+#video-content{
+float:right;
+margin-right:10px;
+}
+
+#photos{
+float: right;
+height: 100vh;
+width: 90vw;	
+}
+
+#photos-content{
+float:right;
+}
+
+#photos-content img{
+float: right;
+}
+
+#photos img{
+width: 20%;
+}
+
+#photos span{
+display: inline-block;
+}
+
+#address{
+float: right;
+height: 100vh;
+width: 90vw;
+}
+
+#address-content{
+float:right;
+margin-right:10px;
+}
